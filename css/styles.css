@@ -69,6 +69,14 @@ a {
  .divider > section:last-of-type {
   border-bottom: none;
 }
+
+ 
+/* Profile
+------------------------------------*/
+header {
+  background: #2F3061;
+  color: #F7FFF7;
+}
  
 
  
